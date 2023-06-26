@@ -1,0 +1,26 @@
+.divelo{
+    float:right;
+}
+.divelo2{
+    float:left;
+}
+.divelo_img{
+    width:200px;
+border-radius:100px;
+}
+.divelo2_img{
+    width:200px;
+    border-radius:100px;
+font-size:23px;
+margin:15px;
+}
+Body{
+    background-image: url('v.jpg');
+}
+.r1,.r2,.r3{
+    background-color:aquamarine;
+    margin: 0;
+}
+canvas{
+    background-color:white
+}
